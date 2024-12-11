@@ -22,9 +22,11 @@ header{
 header:hover{
     box-shadow: -5px 10px 5px rgba(0, 0, 0, 0.7);
 }
+
+/*Sidear*/
 #sidebar{
     position: fixed;
-    background-color: grey;
+    background-color: darkslategrey;
     width: 200px;
     height: 100%;
     top: 0;
